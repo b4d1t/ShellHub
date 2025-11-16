@@ -46,7 +46,7 @@ python3 --version
 ### Instalación Rápida
 ```bash
 - Clonar el repositorio
-wget https://raw.githubusercontent.com/tuusuario/shellhub/main/shellhub.py
+git clone git@github.com:b4d1t/ShellHub.git
 
 - Dar permisos de ejecución (opcional)
 chmod +x shellhub.py
