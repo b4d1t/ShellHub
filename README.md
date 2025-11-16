@@ -1,4 +1,5 @@
 # ShellHub v1.0 - Manual de Usuario
+<img src="images/shellhub.png" width="400">
 ## Índice
 
 - Descripción General
